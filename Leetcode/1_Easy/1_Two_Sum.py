@@ -1,4 +1,7 @@
 # Leetcode problem: https://leetcode.com/problems/two-sum/
+# Difficulty: Easy
+# Runtime beat: 23.57%
+# Memory beat: 86.86%
 
 class Solution:
     def twoSum(self, nums, target):

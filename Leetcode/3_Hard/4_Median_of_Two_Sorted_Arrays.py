@@ -13,4 +13,4 @@ class Solution:
             return merged_list[int((len(merged_list)-1) / 2)]  # If the list length is an odd number
 
 sol = Solution()
-print(sol.findMedianSortedArrays([1, 3], [2]))  # Call the findMedianSortedArrays func
+print(sol.findMedianSortedArrays(nums1=[1, 3], nums2=[2]))  # Call the findMedianSortedArrays func

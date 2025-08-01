@@ -2,6 +2,7 @@
 # Difficulty: Medium
 # Runtime beat: 100.00%
 # Memory beat: 95.48%
+# © Sigeri
 
 class Solution:
     def myAtoi(self, s):

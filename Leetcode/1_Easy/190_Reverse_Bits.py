@@ -4,6 +4,7 @@
 # 1. Memory beat: 78.59%
 # 2. Runtime beat: 75.29%
 # 2. Memory beat: 95.64%
+# © Sigeri
 
 class Solution1:
     def reverseBits(self, n):

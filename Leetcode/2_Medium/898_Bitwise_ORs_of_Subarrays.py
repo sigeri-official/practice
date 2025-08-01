@@ -1,7 +1,8 @@
 # Leetcode problem: https://leetcode.com/problems/bitwise-ors-of-subarrays/
 # Difficulty: Medium
-# Runtime beat: 100.00%
-# Memory beat: 95.48%
+# Runtime beat: 0%
+# Memory beat: 8%
+# © Sigeri
 
 class Solution:
     def subarrayBitwiseORs(self, arr):

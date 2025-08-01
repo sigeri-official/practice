@@ -2,6 +2,7 @@
 # Difficulty: Hard
 # Runtime beat: 63.84%
 # Memory beat: 82.67%
+# © Sigeri
 
 class Solution:
     def findMedianSortedArrays(self, nums1, nums2):

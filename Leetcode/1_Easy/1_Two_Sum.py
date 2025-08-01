@@ -2,6 +2,7 @@
 # Difficulty: Easy
 # Runtime beat: 23.57%
 # Memory beat: 86.86%
+# © Sigeri
 
 class Solution:
     def twoSum(self, nums, target):
